@@ -1,6 +1,6 @@
 # us-housing-price-analysis-1990-2019-
 A Power BI dashboard exploring how interest rates, inflation, and bank credit availability drove US home price growth from 1990 to 2019.
-"C:\Users\Ashutosh\Downloads\us housing price analysis (1990-2019).png"
+Download `us_housing_price_analysis.pbit`<img width="1336" height="747" alt="us housing price analysis (1990-2019)" src="https://github.com/user-attachments/assets/0e2bde23-c063-4e24-b6a1-7062134cab8c" />
 # insights :
 **Interest rates vs. home prices** — an inverse relationship: as borrowing
 costs fell, housing demand and prices rose.
