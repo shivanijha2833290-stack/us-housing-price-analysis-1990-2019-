@@ -49,6 +49,6 @@ Power Query (data shaping)
 DAX (measures & calculated fields)
 # author 
 shivani jha 
-linkdin url:
+linkdin url:https://www.linkedin.com/in/shivanijha0?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 
