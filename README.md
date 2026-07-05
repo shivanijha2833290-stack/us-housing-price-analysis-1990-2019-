@@ -1,5 +1,15 @@
 # us-housing-price-analysis-1990-2019-
 A Power BI dashboard exploring how interest rates, inflation, and bank credit availability drove US home price growth from 1990 to 2019.
+# backstory 
+This project actually started life as an econometrics assignment in my 4th
+semester. Back then, I understood the economic theory behind it but didn't
+know Power BI or Python well enough to actually build the analysis I had in
+mind, so it stayed as notes and half-finished ideas.
+
+I later went back, learned Power BI properly, and rebuilt the whole thing
+from scratch — this is the result, and my first dashboard ever. Sharing it
+here both as a portfolio piece and as a reminder to my future self that it's
+fine to revisit something you couldn't finish the first time around.
 Download `us_housing_price_analysis.pbit`<img width="1336" height="747" alt="us housing price analysis (1990-2019)" src="https://github.com/user-attachments/assets/0e2bde23-c063-4e24-b6a1-7062134cab8c" />
 # insights :
 **Interest rates vs. home prices** — an inverse relationship: as borrowing
